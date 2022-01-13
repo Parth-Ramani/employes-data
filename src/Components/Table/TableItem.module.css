@@ -1,0 +1,21 @@
+.container {
+  margin-top: 20%;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* table {
+  border-collapse: collapse;
+} */
+/* th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+} */
+td {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+}

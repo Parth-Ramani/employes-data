@@ -1,0 +1,36 @@
+.header {
+  position: absolute;
+  height: 7rem;
+  width: 100%;
+  top: 0%;
+  left: 0%;
+  background-color: rgb(94, 8, 94);
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+
+.search {
+  margin-left: 23%;
+  margin-top: 3rem;
+  width: 38rem;
+  height: 2.4rem;
+  border-radius: 16rem;
+  font-size: 18px;
+
+  border-color: white;
+  padding: 8px;
+}
+
+.button {
+  height: 4rem;
+  position: relative;
+  background-color: rgb(94, 8, 94);
+  margin-top: 1rem;
+  color: white;
+  border: none;
+  padding: 9px;
+  font-size: 18px;
+}
+button:hover {
+  background-color: rgb(124, 71, 124);
+}
